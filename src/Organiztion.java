@@ -31,6 +31,8 @@ class Manager extends Employee {
         m.rateoforg();
         m.Experienceofmanager();
         Employee e = new Employee();
+        e.categoryofemployee();
+        e.rateoforg();
 
     }
 }
